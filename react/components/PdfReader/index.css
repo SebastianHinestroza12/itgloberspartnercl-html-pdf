@@ -1,0 +1,14 @@
+.container__pdf{
+  max-width: 972px;
+  margin: 0 auto;
+}
+.container__pdf p{
+  font-size: 40px;
+  text-align: center;
+
+}
+.container__pdf img{
+  height: 247px;
+  width: 100%;
+  cursor: pointer;
+}
